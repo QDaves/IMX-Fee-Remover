@@ -1,4 +1,4 @@
-Ive just released a new Chrome extension **IMX Fee Remover** that removes the 1% Maker and Taker fees on the Immutable X
+Just released a new Chrome extension **IMX Fee Remover** that removes the 1% Maker and Taker fees on the Immutable X
 
 **You save 1% Fees** always when Buying or Selling on IMX through it
 
