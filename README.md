@@ -8,4 +8,3 @@ Just released a new Chrome extension **IMX Fee Remover** that removes the 1% Mak
 Check it out on the Chrome Web Store: [chromewebstore.google.com/detail/imx-fee-remover](https://chromewebstore.google.com/detail/imx-fee-remover/agofgneeldhpjbhjcddflmfiifnbdeog?hl=en&authuser=0)
 
 Let me know if you have any questions + Rate the extension thank you
-Sourcecode is in attachments
